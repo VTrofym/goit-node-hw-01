@@ -20,6 +20,10 @@
   },
   "homepage": "https://github.com/VTrofym/goit-node-hw-01#readme",
   "dependencies": {
+    "bson-objectid": "^2.0.4",
+    "commander": "^9.4.1"
+  },
+  "devDependencies": {
     "nodemon": "^2.0.20"
   }
 }
